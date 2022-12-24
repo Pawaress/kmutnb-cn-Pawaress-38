@@ -1,0 +1,1 @@
+C:\Users\MAX\OneDrive\ -\ kmutnb.ac.th\Desktop\Work_could_moble\ -\ Copy\ -\ Copy\lab02-2022-12-22\as-04\target\debug\as-04.exe: C:\Users\MAX\OneDrive\ -\ kmutnb.ac.th\Desktop\Work_could_moble\ -\ Copy\ -\ Copy\lab02-2022-12-22\as-04\src\main.rs
