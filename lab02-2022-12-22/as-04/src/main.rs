@@ -44,8 +44,9 @@ fn find_a_factor(x:i32){
             break;//ออกจาก loop for
         }  
     }
-    
+
+
     print!("{} = {}",x,str);//ปรี้นค่า x กับ ค่า str
     
-
+//555
 }
