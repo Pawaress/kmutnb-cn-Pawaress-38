@@ -48,5 +48,5 @@ fn find_a_factor(x:i32){
 
     print!("{} = {}",x,str);//ปรี้นค่า x กับ ค่า str
     
-//555
+//555 max
 }
