@@ -1,0 +1,1 @@
+D:\นักศึกษา\ปี3\ เทอม\ 2\วิชาMobile_and_cloud_computing\Work_could_moble\lab03-2023-1-23\as-01\target\debug\as-01.exe: D:\นักศึกษา\ปี3\ เทอม\ 2\วิชาMobile_and_cloud_computing\Work_could_moble\lab03-2023-1-23\as-01\src\main.rs
