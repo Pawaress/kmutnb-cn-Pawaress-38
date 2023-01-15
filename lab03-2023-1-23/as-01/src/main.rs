@@ -106,9 +106,10 @@ fn count(x: Vec<String>) -> i32 {
 
 #[cfg(test)]
 mod tests {
-    use crate::count;
+    /*use crate::count;
     use crate::unique;
-    use crate::words;
+    use crate::words;*/
+    use super::*;
 
     #[test]
     fn count_unique_work() {
